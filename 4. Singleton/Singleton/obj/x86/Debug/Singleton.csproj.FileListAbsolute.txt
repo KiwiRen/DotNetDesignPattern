@@ -1,0 +1,4 @@
+D:\Scottish Fold\Design Pattern\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Scottish Fold\Design Pattern\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Scottish Fold\Design Pattern\Singleton\Singleton\obj\x86\Debug\Singleton.exe
+D:\Scottish Fold\Design Pattern\Singleton\Singleton\obj\x86\Debug\Singleton.pdb
