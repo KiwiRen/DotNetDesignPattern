@@ -1,0 +1,4 @@
+D:\Scottish Fold\Design Pattern\Builder\Builder\bin\Debug\Builder.exe
+D:\Scottish Fold\Design Pattern\Builder\Builder\bin\Debug\Builder.pdb
+D:\Scottish Fold\Design Pattern\Builder\Builder\obj\x86\Debug\Builder.exe
+D:\Scottish Fold\Design Pattern\Builder\Builder\obj\x86\Debug\Builder.pdb
