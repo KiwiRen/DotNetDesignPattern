@@ -1,0 +1,4 @@
+D:\Scottish Fold\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Scottish Fold\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Scottish Fold\Design Pattern\Adapter\Adapter\obj\x86\Debug\Adapter.exe
+D:\Scottish Fold\Design Pattern\Adapter\Adapter\obj\x86\Debug\Adapter.pdb
