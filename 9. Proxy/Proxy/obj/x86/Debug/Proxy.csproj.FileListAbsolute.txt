@@ -1,0 +1,4 @@
+D:\Scottish Fold\Design Pattern\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\Scottish Fold\Design Pattern\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\Scottish Fold\Design Pattern\Proxy\Proxy\obj\x86\Debug\Proxy.exe
+D:\Scottish Fold\Design Pattern\Proxy\Proxy\obj\x86\Debug\Proxy.pdb
